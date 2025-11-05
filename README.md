@@ -92,7 +92,7 @@ No `MaterialApp`, a propriedade `useInheritedMediaQuery: true` garante que o lay
 
 ---
 
-## 🧰 Executando o Projeto
+## Executando o Projeto
 
 1. Clone este repositório:
 
