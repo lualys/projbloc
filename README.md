@@ -12,8 +12,6 @@ O aplicativo possui três botões principais que permitem **incrementar**, **dec
 ✅ Teste em vários dispositivos com **Device Preview**  
 ✅ Suporte a **tema claro e escuro**
 
----
-
 ## Estrutura do Projeto
 
 lib/
@@ -37,7 +35,6 @@ lib/
 | `app.dart` | Configurações principais do aplicativo (tema, rotas etc.) |
 | `main.dart` | Ponto de entrada do projeto (ativa o Device Preview) |
 
----
 
 ## Funcionamento do BLoC
 
